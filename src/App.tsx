@@ -1,7 +1,3 @@
-import React from 'react';
-import { Canvas } from '@react-three/fiber';
-import { OrbitControls, Sphere, MeshDistortMaterial } from '@react-three/drei';
-import { motion } from 'framer-motion';
 import Hero from './components/Hero';
 import About from './components/About';
 import Skills from './components/Skills';
